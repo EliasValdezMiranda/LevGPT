@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>Icon\chats.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Icon\chats.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Icon\chats.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Icon\chats.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CDS.Markdown" Version="1.3.16" />
+    <PackageReference Include="Google.GenAI" Version="0.6.0" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="6.1.3" />
+  </ItemGroup>
+
+</Project>

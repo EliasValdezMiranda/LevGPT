@@ -1,0 +1,336 @@
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\LevGPT.exe
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\LevGPT.deps.json
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\LevGPT.runtimeconfig.json
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\LevGPT.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\LevGPT.pdb
+C:\Users\missi\source\repos\LevGPT\LevGPT\obj\Debug\net8.0-windows\LevGPT.Form1.resources
+C:\Users\missi\source\repos\LevGPT\LevGPT\obj\Debug\net8.0-windows\LevGPT.csproj.GenerateResource.cache
+C:\Users\missi\source\repos\LevGPT\LevGPT\obj\Debug\net8.0-windows\LevGPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missi\source\repos\LevGPT\LevGPT\obj\Debug\net8.0-windows\LevGPT.AssemblyInfoInputs.cache
+C:\Users\missi\source\repos\LevGPT\LevGPT\obj\Debug\net8.0-windows\LevGPT.AssemblyInfo.cs
+C:\Users\missi\source\repos\LevGPT\LevGPT\obj\Debug\net8.0-windows\LevGPT.csproj.CoreCompileInputs.cache
+C:\Users\missi\source\repos\LevGPT\LevGPT\obj\Debug\net8.0-windows\LevGPT.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\obj\Debug\net8.0-windows\refint\LevGPT.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\obj\Debug\net8.0-windows\LevGPT.pdb
+C:\Users\missi\source\repos\LevGPT\LevGPT\obj\Debug\net8.0-windows\LevGPT.genruntimeconfig.cache
+C:\Users\missi\source\repos\LevGPT\LevGPT\obj\Debug\net8.0-windows\ref\LevGPT.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\obj\Debug\net8.0-windows\LevGPT.csproj.AssemblyReference.cache
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\obj\Debug\net8.0-windows\LevGPT.csproj.Up2Date
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\CDS.Markdown.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\Google.Apis.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\Google.Apis.Auth.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\Google.Apis.Core.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\Google.GenAI.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\Markdig.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.xml
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\missi\source\repos\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\obj\Debug\net8.0-windows\LevGPT.csproj.AssemblyReference.cache
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\obj\Debug\net8.0-windows\LevGPT.VentanaCrearUsuario.resources
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\obj\Debug\net8.0-windows\LevGPT.VentanaInicioSesion.resources
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\obj\Debug\net8.0-windows\LevGPT.VentanaMenuPrincipal.resources
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\obj\Debug\net8.0-windows\LevGPT.csproj.GenerateResource.cache
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\obj\Debug\net8.0-windows\LevGPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\obj\Debug\net8.0-windows\LevGPT.AssemblyInfoInputs.cache
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\obj\Debug\net8.0-windows\LevGPT.AssemblyInfo.cs
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\obj\Debug\net8.0-windows\LevGPT.csproj.CoreCompileInputs.cache
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\obj\Debug\net8.0-windows\LevGPT.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\obj\Debug\net8.0-windows\refint\LevGPT.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\obj\Debug\net8.0-windows\LevGPT.pdb
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\LevGPT.exe
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\LevGPT.deps.json
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\LevGPT.runtimeconfig.json
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\LevGPT.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\LevGPT.pdb
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\CDS.Markdown.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\Google.Apis.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\Google.Apis.Auth.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\Google.Apis.Core.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\Google.GenAI.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\Markdig.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.xml
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\obj\Debug\net8.0-windows\LevGPT.csproj.Up2Date
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\obj\Debug\net8.0-windows\LevGPT.genruntimeconfig.cache
+C:\Users\missi\OneDrive\Escritorio\mamadas\LevGPT.-main\LevGPT.-main\LevGPT\obj\Debug\net8.0-windows\ref\LevGPT.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\LevGPT.exe
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\LevGPT.deps.json
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\LevGPT.runtimeconfig.json
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\LevGPT.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\LevGPT.pdb
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\CDS.Markdown.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\Google.Apis.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\Google.Apis.Auth.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\Google.Apis.Core.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\Google.GenAI.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\Markdig.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.xml
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\obj\Debug\net8.0-windows\LevGPT.csproj.AssemblyReference.cache
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\obj\Debug\net8.0-windows\LevGPT.VentanaCrearUsuario.resources
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\obj\Debug\net8.0-windows\LevGPT.VentanaInicioSesion.resources
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\obj\Debug\net8.0-windows\LevGPT.VentanaMenuPrincipal.resources
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\obj\Debug\net8.0-windows\LevGPT.csproj.GenerateResource.cache
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\obj\Debug\net8.0-windows\LevGPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\obj\Debug\net8.0-windows\LevGPT.AssemblyInfoInputs.cache
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\obj\Debug\net8.0-windows\LevGPT.AssemblyInfo.cs
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\obj\Debug\net8.0-windows\LevGPT.csproj.CoreCompileInputs.cache
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\obj\Debug\net8.0-windows\LevGPT.csproj.Up2Date
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\obj\Debug\net8.0-windows\LevGPT.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\obj\Debug\net8.0-windows\refint\LevGPT.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\obj\Debug\net8.0-windows\LevGPT.pdb
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\obj\Debug\net8.0-windows\LevGPT.genruntimeconfig.cache
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\obj\Debug\net8.0-windows\ref\LevGPT.dll
+C:\Users\Elias\source\repos\Desarrollo de Sistemas 3\LevGPT\LevGPT\obj\Debug\net8.0-windows\LevGPT.VentanaConfiguracion.resources
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\LevGPT.exe
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\LevGPT.deps.json
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\LevGPT.runtimeconfig.json
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\LevGPT.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\LevGPT.pdb
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\CDS.Markdown.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\Google.Apis.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\Google.Apis.Auth.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\Google.Apis.Core.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\Google.GenAI.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\Markdig.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.xml
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\obj\Debug\net8.0-windows\LevGPT.csproj.AssemblyReference.cache
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\obj\Debug\net8.0-windows\LevGPT.VentanaConfiguracion.resources
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\obj\Debug\net8.0-windows\LevGPT.VentanaCrearUsuario.resources
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\obj\Debug\net8.0-windows\LevGPT.VentanaInicioSesion.resources
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\obj\Debug\net8.0-windows\LevGPT.VentanaMenuPrincipal.resources
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\obj\Debug\net8.0-windows\LevGPT.csproj.GenerateResource.cache
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\obj\Debug\net8.0-windows\LevGPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\obj\Debug\net8.0-windows\LevGPT.AssemblyInfoInputs.cache
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\obj\Debug\net8.0-windows\LevGPT.AssemblyInfo.cs
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\obj\Debug\net8.0-windows\LevGPT.csproj.CoreCompileInputs.cache
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\obj\Debug\net8.0-windows\LevGPT.csproj.Up2Date
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\obj\Debug\net8.0-windows\LevGPT.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\obj\Debug\net8.0-windows\refint\LevGPT.dll
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\obj\Debug\net8.0-windows\LevGPT.pdb
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\obj\Debug\net8.0-windows\LevGPT.genruntimeconfig.cache
+C:\Users\missi\Downloads\DS3_Proyecto Final\LevGPT\LevGPT\obj\Debug\net8.0-windows\ref\LevGPT.dll
