@@ -11,7 +11,7 @@
 ## ℹ️ Acerca de
 
 * El proyecto LevGPT utiliza C# y Windows Forms para la creación de una interfaz por la que un usuario puede comunicarse con una API de Gemini, permitiendo conversaciones con un chatbot que imita (exageradamente) la personalidad del profesor Lev David Valenzuela López. La información del usuario se almacena en una base de datos Microsoft SQL Server.
-* Desarrollado como proyecto final de la materia **Desarrollo de Sistemas III** impartida por el profesor Lev David Valenzuela López en el semestre 2025-2.
+* Desarrollado como proyecto final de la materia **Desarrollo de Sistemas III** impartida por el profesor Lev David Valenzuela López en el semestre 2025-2, en colaboración con Gonzalez Guerrero Gael, Laura Janeth Vásquez Ramos, Eduardo Sebastián Sánchez Peralta, Eduardo Sebastián Sánchez Peralta y Damián de Jesús Enríquez Solorzano.
 
 
 ## ⚙️ Dependencias
