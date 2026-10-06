@@ -28,6 +28,10 @@
 3. Crear la base de datos del sistema utilizando los comandos en **`docs/DS3_ProyectoFinal.sql`**.
 4. Modificar el archivo **`LevGPT/Models/SQLCommands.cs`** para apuntar al servidor y base de datos correctas.
 5. Verificar el modelo de Gemini que se utilizará en el archivo **`LevGPT/Models/Gemini.cs`**. Actualmente, se encuentra registrado el modelo **`gemini-3.8-flash`**.
+
+> [!WARNING]
+> El programa contaba con un modelo diferente en su entrega al profesor, pero este dejó de ofrecerse después de un tiempo, por lo que el modelo **`gemini-3.8-flash`** configurado actualmente podría haberse descontinuado y requerir una actualización en el archivo **`LevGPT/Models/Gemini.cs`**.
+
 6. Obtener una clave de la API de Gemini y remplazarla en el archivo **`LevGPT/Models/Gemini.cs`**.
 7. Compilar y ejecutar el programa utilizando Visual Studio.
 
